@@ -3,6 +3,7 @@
 ## This project is extracting data from spotify API and streamlining the playlist data using AWS
 
 This is my first End-to-End pipeline in AWS and I chose Lofi beats from Spotify to build the pipeline on.
+You can listen to this playlist and work on this : https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn
 
 <img width="1038" alt="Screenshot 2023-05-25 at 10 47 08 AM" src="https://github.com/rkulka17/spotify-de-project/assets/102991272/f4eed8f8-b6bd-4fb1-a73b-55e68df62b1d">
 
